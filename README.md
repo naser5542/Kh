@@ -1,0 +1,2 @@
+# Kh
+Apt update
